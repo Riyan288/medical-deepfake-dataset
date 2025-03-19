@@ -1,4 +1,4 @@
-# medical-deepfake-dataset citation
+# medical dataset citation
 CT Scan:
 
 https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
